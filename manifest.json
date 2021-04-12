@@ -26,7 +26,7 @@
 			"*://*.piearesquared.info/",
 			"*://*.thecircleisclosing.com/",
 			"*://*.parmainitiative.com/",
-			"*://*.twitch.tv/popout/prismatichub/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel"
+			"*://*.twitch.tv/popout/survivio/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel"
 		]
 	},
 	"browser_action": {
@@ -69,7 +69,7 @@
 				"*://piearesquared.info/",
 				"*://thecircleisclosing.com/",
 				"*://*.parmainitiative.com/",
-				"*://*.twitch.tv/popout/prismatichub/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel"
+				"*://*.twitch.tv/popout/survivio/extensions/c79geyxwmp1zpas3qxbddzrtytffta/panel"
 			],
 			"js": [
 				"start.js"
