@@ -39,21 +39,6 @@
 		"128": "128.png"
 	},
 	"web_accessible_resources": [
-		"payload/gameVars.js",
-		"payload/gameSetting.js",
-		"payload/gameInit.js",
-		"payload/gameFree.js",
-		"payload/gameOverride.js",
-		"payload/gameUpdate.js",
-		"payload/gameRender.js",
-		"payload/pingOverride.js",
-		"payload/menuAppearance.js",
-		"payload/documentChange.js",
-		"payload/help-en.html",
-		"payload/help-ru.html",
-		"payload/menu.html",
-		"payload/menu.css",
-		"payload/FPSCounter.html",
 		"payload/glitchLogo.css",
 		"third_party/jquery-3.3.1.min.js",
 		"webpack_override.js"
